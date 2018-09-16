@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SoundRecorder</string>
+    <string name="startRecordingButton">Start recording</string>
+    <string name="stopRecordingButton">Stop recording</string>
+    <string name="currentlyRecording">Recording…</string>
+    <string name="recordingFinished">Recording finished; ready to play</string>
+    <string name="readyToRecord">Ready to record</string>
+    <string name="recording">recording%1$s</string>
+    <string name="helpTextView">
+        Your recordings will appear above.\nTap a recording to play.
+        \nTap a playing recording to stop playing.
+        \nYour recordings will be deleted after the app restart.</string>
+</resources>
